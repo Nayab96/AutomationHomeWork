@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Automation\Automation\bin\Debug\net6.0\Automation.exe
+C:\Users\HP\source\repos\Automation\Automation\bin\Debug\net6.0\Automation.deps.json
+C:\Users\HP\source\repos\Automation\Automation\bin\Debug\net6.0\Automation.runtimeconfig.json
+C:\Users\HP\source\repos\Automation\Automation\bin\Debug\net6.0\Automation.dll
+C:\Users\HP\source\repos\Automation\Automation\bin\Debug\net6.0\Automation.pdb
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.AssemblyInfo.cs
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.dll
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\refint\Automation.dll
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.pdb
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\Automation.genruntimeconfig.cache
+C:\Users\HP\source\repos\Automation\Automation\obj\Debug\net6.0\ref\Automation.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Automation2\Automation2\bin\Debug\net6.0\Automation2.exe
+C:\Users\HP\source\repos\Automation2\Automation2\bin\Debug\net6.0\Automation2.deps.json
+C:\Users\HP\source\repos\Automation2\Automation2\bin\Debug\net6.0\Automation2.runtimeconfig.json
+C:\Users\HP\source\repos\Automation2\Automation2\bin\Debug\net6.0\Automation2.dll
+C:\Users\HP\source\repos\Automation2\Automation2\bin\Debug\net6.0\Automation2.pdb
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.AssemblyInfo.cs
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.dll
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\refint\Automation2.dll
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.pdb
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\Automation2.genruntimeconfig.cache
+C:\Users\HP\source\repos\Automation2\Automation2\obj\Debug\net6.0\ref\Automation2.dll
